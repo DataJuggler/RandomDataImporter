@@ -166,23 +166,27 @@ namespace RandomDataImporter
                         // Iterate the collection of TextLine objects
                         foreach (TextLine line in textLines)
                         {
-                            // Create a new instance of an 'Adjective' object.
-                            Adjective adjective = new Adjective();
-
-                            // Set the text
-                            adjective.WordText = line.Text;
-
-                            // Set the syllables
-                            adjective.Syllables = syllables;
-
-                            // perform the save
-                            bool saved = gateway.SaveAdjective(ref adjective);
-
-                            // if the value for saved is true
-                            if (saved)
+                            // fixing issue of last word being blank
+                            if (TextHelper.Exists(line.Text))
                             {
-                                // Increment the value for AdjectiveGraph
-                                AdjectiveGraph.Value++;
+                                // Create a new instance of an 'Adjective' object.
+                                Adjective adjective = new Adjective();
+
+                                // Set the text
+                                adjective.WordText = line.Text;
+
+                                // Set the syllables
+                                adjective.Syllables = syllables;
+
+                                // perform the save
+                                bool saved = gateway.SaveAdjective(ref adjective);
+
+                                // if the value for saved is true
+                                if (saved)
+                                {
+                                    // Increment the value for AdjectiveGraph
+                                    AdjectiveGraph.Value++;
+                                }
                             }
                         }
                     }
@@ -373,23 +377,27 @@ namespace RandomDataImporter
                         // Iterate the collection of TextLine objects
                         foreach (TextLine line in textLines)
                         {
-                            // Create a new instance of an 'Adverb' object.
-                            Adverb adverb = new Adverb();
-
-                            // Set the text
-                            adverb.WordText = line.Text;
-
-                            // Set the syllables
-                            adverb.Syllables = syllables;
-
-                            // perform the save
-                            bool saved = gateway.SaveAdverb(ref adverb);
-
-                            // if the value for saved is true
-                            if (saved)
+                            // fixing issue of last word being blank
+                            if (TextHelper.Exists(line.Text))
                             {
-                                // Increment the value for AdverbGraph
-                                AdverbsGraph.Value++;
+                                // Create a new instance of an 'Adverb' object.
+                                Adverb adverb = new Adverb();
+
+                                // Set the text
+                                adverb.WordText = line.Text;
+
+                                // Set the syllables
+                                adverb.Syllables = syllables;
+
+                                // perform the save
+                                bool saved = gateway.SaveAdverb(ref adverb);
+
+                                // if the value for saved is true
+                                if (saved)
+                                {
+                                    // Increment the value for AdverbGraph
+                                    AdverbsGraph.Value++;
+                                }
                             }
                         }
                     }
@@ -580,23 +588,27 @@ namespace RandomDataImporter
                         // Iterate the collection of TextLine objects
                         foreach (TextLine line in textLines)
                         {
-                            // Create a new instance of an 'Noun' object.
-                            Noun noun = new Noun();
-
-                            // Set the text
-                            noun.WordText = line.Text;
-
-                            // Set the syllables
-                            noun.Syllables = syllables;
-
-                            // perform the save
-                            bool saved = gateway.SaveNoun(ref noun);
-
-                            // if the value for saved is true
-                            if (saved)
+                            // fixing issue of last word being blank
+                            if (TextHelper.Exists(line.Text))
                             {
-                                // Increment the value for NounGraph
-                                NounGraph.Value++;
+                                // Create a new instance of an 'Noun' object.
+                                Noun noun = new Noun();
+
+                                // Set the text
+                                noun.WordText = line.Text;
+
+                                // Set the syllables
+                                noun.Syllables = syllables;
+
+                                // perform the save
+                                bool saved = gateway.SaveNoun(ref noun);
+
+                                // if the value for saved is true
+                                if (saved)
+                                {
+                                    // Increment the value for NounGraph
+                                    NounGraph.Value++;
+                                }
                             }
                         }
                     }
@@ -784,28 +796,30 @@ namespace RandomDataImporter
                         VerbGraph.Value = 0;
                         VerbStatusLabel.Text = "Begin importing verbs: One Syllable";
 
-                       
-
                         // Iterate the collection of TextLine objects
                         foreach (TextLine line in textLines)
                         {
-                            // Create a new instance of an 'Verb' object.
-                            Verb verb = new Verb();
-
-                            // Set the text
-                            verb.WordText = line.Text;
-
-                            // Set the syllables
-                            verb.Syllables = syllables;
-
-                            // perform the save
-                            bool saved = gateway.SaveVerb(ref verb);
-
-                            // if the value for saved is true
-                            if (saved)
+                            // fixing issue of last word being blank
+                            if (TextHelper.Exists(line.Text))     
                             {
-                                // Increment the value for VerbGraph
-                                VerbGraph.Value++;
+                                // Create a new instance of an 'Verb' object.
+                                Verb verb = new Verb();
+
+                                // Set the text
+                                verb.WordText = line.Text;
+
+                                // Set the syllables
+                                verb.Syllables = syllables;
+
+                                // perform the save
+                                bool saved = gateway.SaveVerb(ref verb);
+
+                                // if the value for saved is true
+                                if (saved)
+                                {
+                                    // Increment the value for VerbGraph
+                                    VerbGraph.Value++;
+                                }
                             }
                         }
                     }
