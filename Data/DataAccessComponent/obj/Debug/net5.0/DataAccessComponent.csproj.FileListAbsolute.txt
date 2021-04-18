@@ -1,0 +1,15 @@
+C:\Projects\GitHub\RandomDataGenerator\App\RandomDataImporter\Data\DataAccessComponent\bin\Debug\net5.0\DataAccessComponent.deps.json
+C:\Projects\GitHub\RandomDataGenerator\App\RandomDataImporter\Data\DataAccessComponent\bin\Debug\net5.0\DataAccessComponent.dll
+C:\Projects\GitHub\RandomDataGenerator\App\RandomDataImporter\Data\DataAccessComponent\bin\Debug\net5.0\ref\DataAccessComponent.dll
+C:\Projects\GitHub\RandomDataGenerator\App\RandomDataImporter\Data\DataAccessComponent\bin\Debug\net5.0\DataAccessComponent.pdb
+C:\Projects\GitHub\RandomDataGenerator\App\RandomDataImporter\Data\DataAccessComponent\bin\Debug\net5.0\ObjectLibrary.dll
+C:\Projects\GitHub\RandomDataGenerator\App\RandomDataImporter\Data\DataAccessComponent\bin\Debug\net5.0\ObjectLibrary.pdb
+C:\Projects\GitHub\RandomDataGenerator\App\RandomDataImporter\Data\DataAccessComponent\obj\Debug\net5.0\DataAccessComponent.csprojAssemblyReference.cache
+C:\Projects\GitHub\RandomDataGenerator\App\RandomDataImporter\Data\DataAccessComponent\obj\Debug\net5.0\DataAccessComponent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\GitHub\RandomDataGenerator\App\RandomDataImporter\Data\DataAccessComponent\obj\Debug\net5.0\DataAccessComponent.AssemblyInfoInputs.cache
+C:\Projects\GitHub\RandomDataGenerator\App\RandomDataImporter\Data\DataAccessComponent\obj\Debug\net5.0\DataAccessComponent.AssemblyInfo.cs
+C:\Projects\GitHub\RandomDataGenerator\App\RandomDataImporter\Data\DataAccessComponent\obj\Debug\net5.0\DataAccessComponent.csproj.CoreCompileInputs.cache
+C:\Projects\GitHub\RandomDataGenerator\App\RandomDataImporter\Data\DataAccessComponent\obj\Debug\net5.0\DataAccessComponent.csproj.CopyComplete
+C:\Projects\GitHub\RandomDataGenerator\App\RandomDataImporter\Data\DataAccessComponent\obj\Debug\net5.0\DataAccessComponent.dll
+C:\Projects\GitHub\RandomDataGenerator\App\RandomDataImporter\Data\DataAccessComponent\obj\Debug\net5.0\ref\DataAccessComponent.dll
+C:\Projects\GitHub\RandomDataGenerator\App\RandomDataImporter\Data\DataAccessComponent\obj\Debug\net5.0\DataAccessComponent.pdb
