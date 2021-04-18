@@ -27,4 +27,4 @@ https://github.com/DataJuggler/UltimateHelper
 
 I am building a random story generator, and I needed some data to go with my random data for people and addresses.
 
-Sorry the paths are hard coded, I will try and make them a relative path if I can.
+The paths are no longer relative.

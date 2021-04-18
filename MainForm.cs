@@ -31,22 +31,22 @@ namespace RandomDataImporter
     {
         
         #region Private Variables
-        private const string AdjectiveFilePath1 = @"C:\Projects\GitHub\RandomDataGenerator\Input\Words\adjectives\1syllableadjectives.txt";
-        private const string AdjectiveFilePath2 = @"C:\Projects\GitHub\RandomDataGenerator\Input\Words\adjectives\2syllableadjectives.txt";
-        private const string AdjectiveFilePath3 = @"C:\Projects\GitHub\RandomDataGenerator\Input\Words\adjectives\3syllableadjectives.txt";
-        private const string AdjectiveFilePath4 = @"C:\Projects\GitHub\RandomDataGenerator\Input\Words\adjectives\4syllableadjectives.txt";
-        private const string AdverbFilePath1 = @"C:\Projects\GitHub\RandomDataGenerator\Input\Words\adverbs\1syllableadverbs.txt";
-        private const string AdverbFilePath2 = @"C:\Projects\GitHub\RandomDataGenerator\Input\Words\adverbs\2syllableadverbs.txt";
-        private const string AdverbFilePath3 = @"C:\Projects\GitHub\RandomDataGenerator\Input\Words\adverbs\3syllableadverbs.txt";
-        private const string AdverbFilePath4 = @"C:\Projects\GitHub\RandomDataGenerator\Input\Words\adverbs\4syllableadverbs.txt";
-        private const string NounFilePath1 = @"C:\Projects\GitHub\RandomDataGenerator\Input\Words\nouns\1syllablenouns.txt";
-        private const string NounFilePath2 = @"C:\Projects\GitHub\RandomDataGenerator\Input\Words\nouns\2syllablenouns.txt";
-        private const string NounFilePath3 = @"C:\Projects\GitHub\RandomDataGenerator\Input\Words\nouns\3syllablenouns.txt";
-        private const string NounFilePath4 = @"C:\Projects\GitHub\RandomDataGenerator\Input\Words\nouns\4syllablenouns.txt";
-        private const string VerbFilePath1 = @"C:\Projects\GitHub\RandomDataGenerator\Input\Words\verbs\1syllableverbs.txt";
-        private const string VerbFilePath2 = @"C:\Projects\GitHub\RandomDataGenerator\Input\Words\verbs\2syllableverbs.txt";
-        private const string VerbFilePath3 = @"C:\Projects\GitHub\RandomDataGenerator\Input\Words\verbs\3syllableverbs.txt";
-        private const string VerbFilePath4 = @"C:\Projects\GitHub\RandomDataGenerator\Input\Words\verbs\4syllableverbs.txt";
+        private const string AdjectiveFilePath1 = @"..\..\..\Input\adjectives\1syllableadjectives.txt";
+        private const string AdjectiveFilePath2 = @"..\..\..\Input\adjectives\2syllableadjectives.txt";
+        private const string AdjectiveFilePath3 = @"..\..\..\Input\adjectives\3syllableadjectives.txt";
+        private const string AdjectiveFilePath4 = @"..\..\..\Input\adjectives\4syllableadjectives.txt";
+        private const string AdverbFilePath1 = @"..\..\..\Input\adverbs\1syllableadverbs.txt";
+        private const string AdverbFilePath2 = @"..\..\..\Input\adverbs\2syllableadverbs.txt";
+        private const string AdverbFilePath3 = @"..\..\..\Input\adverbs\3syllableadverbs.txt";
+        private const string AdverbFilePath4 = @"..\..\..\Input\adverbs\4syllableadverbs.txt";
+        private const string NounFilePath1 = @"..\..\..\Input\nouns\1syllablenouns.txt";
+        private const string NounFilePath2 = @"..\..\..\Input\nouns\2syllablenouns.txt";
+        private const string NounFilePath3 = @"..\..\..\Input\nouns\3syllablenouns.txt";
+        private const string NounFilePath4 = @"..\..\..\Input\nouns\4syllablenouns.txt";
+        private const string VerbFilePath1 = @"..\..\..\Input\verbs\1syllableverbs.txt";
+        private const string VerbFilePath2 = @"..\..\..\Input\verbs\2syllableverbs.txt";
+        private const string VerbFilePath3 = @"..\..\..\Input\verbs\3syllableverbs.txt";
+        private const string VerbFilePath4 = @"..\..\..\Input\verbs\4syllableverbs.txt";
         private const string ConnectionName = "RandomData";
         #endregion
         
