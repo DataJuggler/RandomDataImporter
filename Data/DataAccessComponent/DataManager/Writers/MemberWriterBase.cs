@@ -6,10 +6,10 @@ using DataAccessComponent.StoredProcedureManager.DeleteProcedures;
 using DataAccessComponent.StoredProcedureManager.FetchProcedures;
 using DataAccessComponent.StoredProcedureManager.InsertProcedures;
 using DataAccessComponent.StoredProcedureManager.UpdateProcedures;
+using Microsoft.Data.SqlClient;
 using ObjectLibrary.BusinessObjects;
 using System;
 using System.Data;
-using System.Data.SqlClient;
 
 #endregion
 
@@ -117,7 +117,7 @@ namespace DataAccessComponent.DataManager.Writers
             internal static SqlParameter[] CreateInsertParameters(Member member)
             {
                 // Initial Values
-                SqlParameter[] parameters = new SqlParameter[3];
+                SqlParameter[] parameters = new SqlParameter[4];
                 SqlParameter param = null;
 
                 // verify memberexists
@@ -129,17 +129,23 @@ namespace DataAccessComponent.DataManager.Writers
                     // set parameters[0]
                     parameters[0] = param;
 
-                    // Create [FirstName] parameter
-                    param = new SqlParameter("@FirstName", member.FirstName);
+                    // Create [EmailAddress] parameter
+                    param = new SqlParameter("@EmailAddress", member.EmailAddress);
 
                     // set parameters[1]
                     parameters[1] = param;
 
-                    // Create [LastName] parameter
-                    param = new SqlParameter("@LastName", member.LastName);
+                    // Create [FirstName] parameter
+                    param = new SqlParameter("@FirstName", member.FirstName);
 
                     // set parameters[2]
                     parameters[2] = param;
+
+                    // Create [LastName] parameter
+                    param = new SqlParameter("@LastName", member.LastName);
+
+                    // set parameters[3]
+                    parameters[3] = param;
                 }
 
                 // return value
@@ -186,7 +192,7 @@ namespace DataAccessComponent.DataManager.Writers
             internal static SqlParameter[] CreateUpdateParameters(Member member)
             {
                 // Initial Values
-                SqlParameter[] parameters = new SqlParameter[4];
+                SqlParameter[] parameters = new SqlParameter[5];
                 SqlParameter param = null;
 
                 // verify memberexists
@@ -198,21 +204,27 @@ namespace DataAccessComponent.DataManager.Writers
                     // set parameters[0]
                     parameters[0] = param;
 
-                    // Create parameter for [FirstName]
-                    param = new SqlParameter("@FirstName", member.FirstName);
+                    // Create parameter for [EmailAddress]
+                    param = new SqlParameter("@EmailAddress", member.EmailAddress);
 
                     // set parameters[1]
                     parameters[1] = param;
 
-                    // Create parameter for [LastName]
-                    param = new SqlParameter("@LastName", member.LastName);
+                    // Create parameter for [FirstName]
+                    param = new SqlParameter("@FirstName", member.FirstName);
 
                     // set parameters[2]
                     parameters[2] = param;
 
+                    // Create parameter for [LastName]
+                    param = new SqlParameter("@LastName", member.LastName);
+
+                    // set parameters[3]
+                    parameters[3] = param;
+
                     // Create parameter for [Id]
                     param = new SqlParameter("@Id", member.Id);
-                    parameters[3] = param;
+                    parameters[4] = param;
                 }
 
                 // return value

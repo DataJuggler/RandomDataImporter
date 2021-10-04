@@ -16,6 +16,7 @@ namespace ObjectLibrary.BusinessObjects
 
         #region Private Variables
         private bool active;
+        private string emailAddress;
         private string firstName;
         private int id;
         private string lastName;
@@ -49,6 +50,20 @@ namespace ObjectLibrary.BusinessObjects
                 set
                 {
                     active = value;
+                }
+            }
+            #endregion
+
+            #region string EmailAddress
+            public string EmailAddress
+            {
+                get
+                {
+                    return emailAddress;
+                }
+                set
+                {
+                    emailAddress = value;
                 }
             }
             #endregion

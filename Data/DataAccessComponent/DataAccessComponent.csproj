@@ -11,8 +11,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="DataJuggler.Net5" Version="2.5.1" />
-    <PackageReference Include="DataJuggler.UltimateHelper" Version="1.5.5" />
+    <PackageReference Include="DataJuggler.Net5" Version="3.0.6" />
+    <PackageReference Include="DataJuggler.UltimateHelper" Version="1.6.7" />
   </ItemGroup>
 
   <ItemGroup>

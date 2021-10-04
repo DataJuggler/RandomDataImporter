@@ -36,14 +36,16 @@ namespace DataAccessComponent.DataManager.Readers
 
                 // Create field Integers
                 int activefield = 0;
-                int firstNamefield = 1;
-                int idfield = 2;
-                int lastNamefield = 3;
+                int emailAddressfield = 1;
+                int firstNamefield = 2;
+                int idfield = 3;
+                int lastNamefield = 4;
 
                 try
                 {
                     // Load Each field
                     member.Active = DataHelper.ParseBoolean(dataRow.ItemArray[activefield], false);
+                    member.EmailAddress = DataHelper.ParseString(dataRow.ItemArray[emailAddressfield]);
                     member.FirstName = DataHelper.ParseString(dataRow.ItemArray[firstNamefield]);
                     member.UpdateIdentity(DataHelper.ParseInteger(dataRow.ItemArray[idfield], 0));
                     member.LastName = DataHelper.ParseString(dataRow.ItemArray[lastNamefield]);

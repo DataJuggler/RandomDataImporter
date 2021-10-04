@@ -10,7 +10,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="DataJuggler.UltimateHelper" Version="1.5.5" />
+    <PackageReference Include="DataJuggler.UltimateHelper" Version="1.6.7" />
   </ItemGroup>
 
   <ItemGroup>

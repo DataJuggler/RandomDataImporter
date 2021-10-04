@@ -6,7 +6,7 @@ Go
 -- =========================================================
 -- Procure Name: Address_Insert
 -- Author:           Data Juggler - Data Tier.Net Procedure Generator
--- Create Date:   4/18/2021
+-- Create Date:   10/4/2021
 -- Description:    Insert a new Address
 -- =========================================================
 
@@ -69,7 +69,7 @@ Go
 -- =========================================================
 -- Procure Name: Address_Update
 -- Author:           Data Juggler - Data Tier.Net Procedure Generator
--- Create Date:   4/18/2021
+-- Create Date:   10/4/2021
 -- Description:    Update an existing Address
 -- =========================================================
 
@@ -137,7 +137,7 @@ Go
 -- =========================================================
 -- Procure Name: Address_Find
 -- Author:           Data Juggler - Data Tier.Net Procedure Generator
--- Create Date:   4/18/2021
+-- Create Date:   10/4/2021
 -- Description:    Find an existing Address
 -- =========================================================
 
@@ -194,7 +194,7 @@ Go
 -- =========================================================
 -- Procure Name: Address_Delete
 -- Author:           Data Juggler - Data Tier.Net Procedure Generator
--- Create Date:   4/18/2021
+-- Create Date:   10/4/2021
 -- Description:    Delete an existing Address
 -- =========================================================
 
@@ -248,7 +248,7 @@ Go
 -- =========================================================
 -- Procure Name: Address_FetchAll
 -- Author:           Data Juggler - Data Tier.Net Procedure Generator
--- Create Date:   4/18/2021
+-- Create Date:   10/4/2021
 -- Description:    Returns all Address objects
 -- =========================================================
 
@@ -299,7 +299,7 @@ Go
 -- =========================================================
 -- Procure Name: Adjective_Insert
 -- Author:           Data Juggler - Data Tier.Net Procedure Generator
--- Create Date:   4/18/2021
+-- Create Date:   10/4/2021
 -- Description:    Insert a new Adjective
 -- =========================================================
 
@@ -358,7 +358,7 @@ Go
 -- =========================================================
 -- Procure Name: Adjective_Update
 -- Author:           Data Juggler - Data Tier.Net Procedure Generator
--- Create Date:   4/18/2021
+-- Create Date:   10/4/2021
 -- Description:    Update an existing Adjective
 -- =========================================================
 
@@ -418,7 +418,7 @@ Go
 -- =========================================================
 -- Procure Name: Adjective_Find
 -- Author:           Data Juggler - Data Tier.Net Procedure Generator
--- Create Date:   4/18/2021
+-- Create Date:   10/4/2021
 -- Description:    Find an existing Adjective
 -- =========================================================
 
@@ -475,7 +475,7 @@ Go
 -- =========================================================
 -- Procure Name: Adjective_Delete
 -- Author:           Data Juggler - Data Tier.Net Procedure Generator
--- Create Date:   4/18/2021
+-- Create Date:   10/4/2021
 -- Description:    Delete an existing Adjective
 -- =========================================================
 
@@ -529,7 +529,7 @@ Go
 -- =========================================================
 -- Procure Name: Adjective_FetchAll
 -- Author:           Data Juggler - Data Tier.Net Procedure Generator
--- Create Date:   4/18/2021
+-- Create Date:   10/4/2021
 -- Description:    Returns all Adjective objects
 -- =========================================================
 
@@ -580,7 +580,7 @@ Go
 -- =========================================================
 -- Procure Name: Adverb_Insert
 -- Author:           Data Juggler - Data Tier.Net Procedure Generator
--- Create Date:   4/18/2021
+-- Create Date:   10/4/2021
 -- Description:    Insert a new Adverb
 -- =========================================================
 
@@ -639,7 +639,7 @@ Go
 -- =========================================================
 -- Procure Name: Adverb_Update
 -- Author:           Data Juggler - Data Tier.Net Procedure Generator
--- Create Date:   4/18/2021
+-- Create Date:   10/4/2021
 -- Description:    Update an existing Adverb
 -- =========================================================
 
@@ -699,7 +699,7 @@ Go
 -- =========================================================
 -- Procure Name: Adverb_Find
 -- Author:           Data Juggler - Data Tier.Net Procedure Generator
--- Create Date:   4/18/2021
+-- Create Date:   10/4/2021
 -- Description:    Find an existing Adverb
 -- =========================================================
 
@@ -756,7 +756,7 @@ Go
 -- =========================================================
 -- Procure Name: Adverb_Delete
 -- Author:           Data Juggler - Data Tier.Net Procedure Generator
--- Create Date:   4/18/2021
+-- Create Date:   10/4/2021
 -- Description:    Delete an existing Adverb
 -- =========================================================
 
@@ -810,7 +810,7 @@ Go
 -- =========================================================
 -- Procure Name: Adverb_FetchAll
 -- Author:           Data Juggler - Data Tier.Net Procedure Generator
--- Create Date:   4/18/2021
+-- Create Date:   10/4/2021
 -- Description:    Returns all Adverb objects
 -- =========================================================
 
@@ -861,7 +861,7 @@ Go
 -- =========================================================
 -- Procure Name: FirstName_Insert
 -- Author:           Data Juggler - Data Tier.Net Procedure Generator
--- Create Date:   4/18/2021
+-- Create Date:   10/4/2021
 -- Description:    Insert a new FirstName
 -- =========================================================
 
@@ -919,7 +919,7 @@ Go
 -- =========================================================
 -- Procure Name: FirstName_Update
 -- Author:           Data Juggler - Data Tier.Net Procedure Generator
--- Create Date:   4/18/2021
+-- Create Date:   10/4/2021
 -- Description:    Update an existing FirstName
 -- =========================================================
 
@@ -977,7 +977,7 @@ Go
 -- =========================================================
 -- Procure Name: FirstName_Find
 -- Author:           Data Juggler - Data Tier.Net Procedure Generator
--- Create Date:   4/18/2021
+-- Create Date:   10/4/2021
 -- Description:    Find an existing FirstName
 -- =========================================================
 
@@ -1034,7 +1034,7 @@ Go
 -- =========================================================
 -- Procure Name: FirstName_Delete
 -- Author:           Data Juggler - Data Tier.Net Procedure Generator
--- Create Date:   4/18/2021
+-- Create Date:   10/4/2021
 -- Description:    Delete an existing FirstName
 -- =========================================================
 
@@ -1088,7 +1088,7 @@ Go
 -- =========================================================
 -- Procure Name: FirstName_FetchAll
 -- Author:           Data Juggler - Data Tier.Net Procedure Generator
--- Create Date:   4/18/2021
+-- Create Date:   10/4/2021
 -- Description:    Returns all FirstName objects
 -- =========================================================
 
@@ -1139,7 +1139,7 @@ Go
 -- =========================================================
 -- Procure Name: LastName_Insert
 -- Author:           Data Juggler - Data Tier.Net Procedure Generator
--- Create Date:   4/18/2021
+-- Create Date:   10/4/2021
 -- Description:    Insert a new LastName
 -- =========================================================
 
@@ -1197,7 +1197,7 @@ Go
 -- =========================================================
 -- Procure Name: LastName_Update
 -- Author:           Data Juggler - Data Tier.Net Procedure Generator
--- Create Date:   4/18/2021
+-- Create Date:   10/4/2021
 -- Description:    Update an existing LastName
 -- =========================================================
 
@@ -1255,7 +1255,7 @@ Go
 -- =========================================================
 -- Procure Name: LastName_Find
 -- Author:           Data Juggler - Data Tier.Net Procedure Generator
--- Create Date:   4/18/2021
+-- Create Date:   10/4/2021
 -- Description:    Find an existing LastName
 -- =========================================================
 
@@ -1312,7 +1312,7 @@ Go
 -- =========================================================
 -- Procure Name: LastName_Delete
 -- Author:           Data Juggler - Data Tier.Net Procedure Generator
--- Create Date:   4/18/2021
+-- Create Date:   10/4/2021
 -- Description:    Delete an existing LastName
 -- =========================================================
 
@@ -1366,7 +1366,7 @@ Go
 -- =========================================================
 -- Procure Name: LastName_FetchAll
 -- Author:           Data Juggler - Data Tier.Net Procedure Generator
--- Create Date:   4/18/2021
+-- Create Date:   10/4/2021
 -- Description:    Returns all LastName objects
 -- =========================================================
 
@@ -1417,7 +1417,7 @@ Go
 -- =========================================================
 -- Procure Name: Member_Insert
 -- Author:           Data Juggler - Data Tier.Net Procedure Generator
--- Create Date:   4/18/2021
+-- Create Date:   10/4/2021
 -- Description:    Insert a new Member
 -- =========================================================
 
@@ -1449,6 +1449,7 @@ Create PROCEDURE Member_Insert
 
     -- Add the parameters for the stored procedure here
     @Active bit,
+    @EmailAddress nvarchar(100),
     @FirstName nvarchar(25),
     @LastName nvarchar(25)
 
@@ -1461,10 +1462,10 @@ BEGIN
 
     -- Begin Insert Statement
     Insert Into [Member]
-    ([Active],[FirstName],[LastName])
+    ([Active],[EmailAddress],[FirstName],[LastName])
 
     -- Begin Values List
-    Values(@Active, @FirstName, @LastName)
+    Values(@Active, @EmailAddress, @FirstName, @LastName)
 
     -- Return ID of new record
     SELECT SCOPE_IDENTITY()
@@ -1477,7 +1478,7 @@ Go
 -- =========================================================
 -- Procure Name: Member_Update
 -- Author:           Data Juggler - Data Tier.Net Procedure Generator
--- Create Date:   4/18/2021
+-- Create Date:   10/4/2021
 -- Description:    Update an existing Member
 -- =========================================================
 
@@ -1509,6 +1510,7 @@ Create PROCEDURE Member_Update
 
     -- Add the parameters for the stored procedure here
     @Active bit,
+    @EmailAddress nvarchar(100),
     @FirstName nvarchar(25),
     @Id int,
     @LastName nvarchar(25)
@@ -1525,6 +1527,7 @@ BEGIN
 
     -- Update Each field
     Set [Active] = @Active,
+    [EmailAddress] = @EmailAddress,
     [FirstName] = @FirstName,
     [LastName] = @LastName
 
@@ -1539,7 +1542,7 @@ Go
 -- =========================================================
 -- Procure Name: Member_Find
 -- Author:           Data Juggler - Data Tier.Net Procedure Generator
--- Create Date:   4/18/2021
+-- Create Date:   10/4/2021
 -- Description:    Find an existing Member
 -- =========================================================
 
@@ -1580,7 +1583,7 @@ BEGIN
     SET NOCOUNT ON
 
     -- Begin Select Statement
-    Select [Active],[FirstName],[Id],[LastName]
+    Select [Active],[EmailAddress],[FirstName],[Id],[LastName]
 
     -- From tableName
     From [Member]
@@ -1596,7 +1599,7 @@ Go
 -- =========================================================
 -- Procure Name: Member_Delete
 -- Author:           Data Juggler - Data Tier.Net Procedure Generator
--- Create Date:   4/18/2021
+-- Create Date:   10/4/2021
 -- Description:    Delete an existing Member
 -- =========================================================
 
@@ -1650,7 +1653,7 @@ Go
 -- =========================================================
 -- Procure Name: Member_FetchAll
 -- Author:           Data Juggler - Data Tier.Net Procedure Generator
--- Create Date:   4/18/2021
+-- Create Date:   10/4/2021
 -- Description:    Returns all Member objects
 -- =========================================================
 
@@ -1688,7 +1691,7 @@ BEGIN
     SET NOCOUNT ON
 
     -- Begin Select Statement
-    Select [Active],[FirstName],[Id],[LastName]
+    Select [Active],[EmailAddress],[FirstName],[Id],[LastName]
 
     -- From tableName
     From [Member]
@@ -1701,7 +1704,7 @@ Go
 -- =========================================================
 -- Procure Name: MemberAddressView_FetchAll
 -- Author:           Data Juggler - Data Tier.Net Procedure Generator
--- Create Date:   4/18/2021
+-- Create Date:   10/4/2021
 -- Description:    Returns all MemberAddressView objects
 -- =========================================================
 
@@ -1752,7 +1755,7 @@ Go
 -- =========================================================
 -- Procure Name: Noun_Insert
 -- Author:           Data Juggler - Data Tier.Net Procedure Generator
--- Create Date:   4/18/2021
+-- Create Date:   10/4/2021
 -- Description:    Insert a new Noun
 -- =========================================================
 
@@ -1811,7 +1814,7 @@ Go
 -- =========================================================
 -- Procure Name: Noun_Update
 -- Author:           Data Juggler - Data Tier.Net Procedure Generator
--- Create Date:   4/18/2021
+-- Create Date:   10/4/2021
 -- Description:    Update an existing Noun
 -- =========================================================
 
@@ -1871,7 +1874,7 @@ Go
 -- =========================================================
 -- Procure Name: Noun_Find
 -- Author:           Data Juggler - Data Tier.Net Procedure Generator
--- Create Date:   4/18/2021
+-- Create Date:   10/4/2021
 -- Description:    Find an existing Noun
 -- =========================================================
 
@@ -1928,7 +1931,7 @@ Go
 -- =========================================================
 -- Procure Name: Noun_Delete
 -- Author:           Data Juggler - Data Tier.Net Procedure Generator
--- Create Date:   4/18/2021
+-- Create Date:   10/4/2021
 -- Description:    Delete an existing Noun
 -- =========================================================
 
@@ -1982,7 +1985,7 @@ Go
 -- =========================================================
 -- Procure Name: Noun_FetchAll
 -- Author:           Data Juggler - Data Tier.Net Procedure Generator
--- Create Date:   4/18/2021
+-- Create Date:   10/4/2021
 -- Description:    Returns all Noun objects
 -- =========================================================
 
@@ -2033,7 +2036,7 @@ Go
 -- =========================================================
 -- Procure Name: State_Insert
 -- Author:           Data Juggler - Data Tier.Net Procedure Generator
--- Create Date:   4/18/2021
+-- Create Date:   10/4/2021
 -- Description:    Insert a new State
 -- =========================================================
 
@@ -2092,7 +2095,7 @@ Go
 -- =========================================================
 -- Procure Name: State_Update
 -- Author:           Data Juggler - Data Tier.Net Procedure Generator
--- Create Date:   4/18/2021
+-- Create Date:   10/4/2021
 -- Description:    Update an existing State
 -- =========================================================
 
@@ -2152,7 +2155,7 @@ Go
 -- =========================================================
 -- Procure Name: State_Find
 -- Author:           Data Juggler - Data Tier.Net Procedure Generator
--- Create Date:   4/18/2021
+-- Create Date:   10/4/2021
 -- Description:    Find an existing State
 -- =========================================================
 
@@ -2209,7 +2212,7 @@ Go
 -- =========================================================
 -- Procure Name: State_Delete
 -- Author:           Data Juggler - Data Tier.Net Procedure Generator
--- Create Date:   4/18/2021
+-- Create Date:   10/4/2021
 -- Description:    Delete an existing State
 -- =========================================================
 
@@ -2263,7 +2266,7 @@ Go
 -- =========================================================
 -- Procure Name: State_FetchAll
 -- Author:           Data Juggler - Data Tier.Net Procedure Generator
--- Create Date:   4/18/2021
+-- Create Date:   10/4/2021
 -- Description:    Returns all State objects
 -- =========================================================
 
@@ -2314,7 +2317,7 @@ Go
 -- =========================================================
 -- Procure Name: StreetName_Insert
 -- Author:           Data Juggler - Data Tier.Net Procedure Generator
--- Create Date:   4/18/2021
+-- Create Date:   10/4/2021
 -- Description:    Insert a new StreetName
 -- =========================================================
 
@@ -2372,7 +2375,7 @@ Go
 -- =========================================================
 -- Procure Name: StreetName_Update
 -- Author:           Data Juggler - Data Tier.Net Procedure Generator
--- Create Date:   4/18/2021
+-- Create Date:   10/4/2021
 -- Description:    Update an existing StreetName
 -- =========================================================
 
@@ -2430,7 +2433,7 @@ Go
 -- =========================================================
 -- Procure Name: StreetName_Find
 -- Author:           Data Juggler - Data Tier.Net Procedure Generator
--- Create Date:   4/18/2021
+-- Create Date:   10/4/2021
 -- Description:    Find an existing StreetName
 -- =========================================================
 
@@ -2487,7 +2490,7 @@ Go
 -- =========================================================
 -- Procure Name: StreetName_Delete
 -- Author:           Data Juggler - Data Tier.Net Procedure Generator
--- Create Date:   4/18/2021
+-- Create Date:   10/4/2021
 -- Description:    Delete an existing StreetName
 -- =========================================================
 
@@ -2541,7 +2544,7 @@ Go
 -- =========================================================
 -- Procure Name: StreetName_FetchAll
 -- Author:           Data Juggler - Data Tier.Net Procedure Generator
--- Create Date:   4/18/2021
+-- Create Date:   10/4/2021
 -- Description:    Returns all StreetName objects
 -- =========================================================
 
@@ -2592,7 +2595,7 @@ Go
 -- =========================================================
 -- Procure Name: Verb_Insert
 -- Author:           Data Juggler - Data Tier.Net Procedure Generator
--- Create Date:   4/18/2021
+-- Create Date:   10/4/2021
 -- Description:    Insert a new Verb
 -- =========================================================
 
@@ -2651,7 +2654,7 @@ Go
 -- =========================================================
 -- Procure Name: Verb_Update
 -- Author:           Data Juggler - Data Tier.Net Procedure Generator
--- Create Date:   4/18/2021
+-- Create Date:   10/4/2021
 -- Description:    Update an existing Verb
 -- =========================================================
 
@@ -2711,7 +2714,7 @@ Go
 -- =========================================================
 -- Procure Name: Verb_Find
 -- Author:           Data Juggler - Data Tier.Net Procedure Generator
--- Create Date:   4/18/2021
+-- Create Date:   10/4/2021
 -- Description:    Find an existing Verb
 -- =========================================================
 
@@ -2768,7 +2771,7 @@ Go
 -- =========================================================
 -- Procure Name: Verb_Delete
 -- Author:           Data Juggler - Data Tier.Net Procedure Generator
--- Create Date:   4/18/2021
+-- Create Date:   10/4/2021
 -- Description:    Delete an existing Verb
 -- =========================================================
 
@@ -2822,7 +2825,7 @@ Go
 -- =========================================================
 -- Procure Name: Verb_FetchAll
 -- Author:           Data Juggler - Data Tier.Net Procedure Generator
--- Create Date:   4/18/2021
+-- Create Date:   10/4/2021
 -- Description:    Returns all Verb objects
 -- =========================================================
 
@@ -2873,7 +2876,7 @@ Go
 -- =========================================================
 -- Procure Name: ZipCode_Insert
 -- Author:           Data Juggler - Data Tier.Net Procedure Generator
--- Create Date:   4/18/2021
+-- Create Date:   10/4/2021
 -- Description:    Insert a new ZipCode
 -- =========================================================
 
@@ -2933,7 +2936,7 @@ Go
 -- =========================================================
 -- Procure Name: ZipCode_Update
 -- Author:           Data Juggler - Data Tier.Net Procedure Generator
--- Create Date:   4/18/2021
+-- Create Date:   10/4/2021
 -- Description:    Update an existing ZipCode
 -- =========================================================
 
@@ -2995,7 +2998,7 @@ Go
 -- =========================================================
 -- Procure Name: ZipCode_Find
 -- Author:           Data Juggler - Data Tier.Net Procedure Generator
--- Create Date:   4/18/2021
+-- Create Date:   10/4/2021
 -- Description:    Find an existing ZipCode
 -- =========================================================
 
@@ -3052,7 +3055,7 @@ Go
 -- =========================================================
 -- Procure Name: ZipCode_Delete
 -- Author:           Data Juggler - Data Tier.Net Procedure Generator
--- Create Date:   4/18/2021
+-- Create Date:   10/4/2021
 -- Description:    Delete an existing ZipCode
 -- =========================================================
 
@@ -3106,7 +3109,7 @@ Go
 -- =========================================================
 -- Procure Name: ZipCode_FetchAll
 -- Author:           Data Juggler - Data Tier.Net Procedure Generator
--- Create Date:   4/18/2021
+-- Create Date:   10/4/2021
 -- Description:    Returns all ZipCode objects
 -- =========================================================
 

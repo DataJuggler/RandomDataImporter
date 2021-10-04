@@ -6,10 +6,10 @@ using DataAccessComponent.StoredProcedureManager.DeleteProcedures;
 using DataAccessComponent.StoredProcedureManager.FetchProcedures;
 using DataAccessComponent.StoredProcedureManager.InsertProcedures;
 using DataAccessComponent.StoredProcedureManager.UpdateProcedures;
+using Microsoft.Data.SqlClient;
 using ObjectLibrary.BusinessObjects;
 using System;
 using System.Data;
-using System.Data.SqlClient;
 
 #endregion
 

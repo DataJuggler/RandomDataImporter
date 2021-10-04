@@ -10,3 +10,14 @@ C:\Projects\GitHub\RandomDataGenerator\App\RandomDataImporter\Data\ObjectLibrary
 C:\Projects\GitHub\RandomDataGenerator\App\RandomDataImporter\Data\ObjectLibrary\obj\Debug\net5.0\ref\ObjectLibrary.dll
 C:\Projects\GitHub\RandomDataGenerator\App\RandomDataImporter\Data\ObjectLibrary\obj\Debug\net5.0\ObjectLibrary.pdb
 C:\Projects\GitHub\RandomDataGenerator\App\RandomDataImporter\Data\ObjectLibrary\obj\Debug\net5.0\ObjectLibrary.csprojAssemblyReference.cache
+C:\Projects\GitHub\RandomDataImporter\Data\ObjectLibrary\bin\Debug\net5.0\ObjectLibrary.deps.json
+C:\Projects\GitHub\RandomDataImporter\Data\ObjectLibrary\bin\Debug\net5.0\ObjectLibrary.dll
+C:\Projects\GitHub\RandomDataImporter\Data\ObjectLibrary\bin\Debug\net5.0\ref\ObjectLibrary.dll
+C:\Projects\GitHub\RandomDataImporter\Data\ObjectLibrary\bin\Debug\net5.0\ObjectLibrary.pdb
+C:\Projects\GitHub\RandomDataImporter\Data\ObjectLibrary\obj\Debug\net5.0\ObjectLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\GitHub\RandomDataImporter\Data\ObjectLibrary\obj\Debug\net5.0\ObjectLibrary.AssemblyInfoInputs.cache
+C:\Projects\GitHub\RandomDataImporter\Data\ObjectLibrary\obj\Debug\net5.0\ObjectLibrary.AssemblyInfo.cs
+C:\Projects\GitHub\RandomDataImporter\Data\ObjectLibrary\obj\Debug\net5.0\ObjectLibrary.csproj.CoreCompileInputs.cache
+C:\Projects\GitHub\RandomDataImporter\Data\ObjectLibrary\obj\Debug\net5.0\ObjectLibrary.dll
+C:\Projects\GitHub\RandomDataImporter\Data\ObjectLibrary\obj\Debug\net5.0\ref\ObjectLibrary.dll
+C:\Projects\GitHub\RandomDataImporter\Data\ObjectLibrary\obj\Debug\net5.0\ObjectLibrary.pdb

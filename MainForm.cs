@@ -47,7 +47,7 @@ namespace RandomDataImporter
         private const string VerbFilePath2 = @"..\..\..\Input\verbs\2syllableverbs.txt";
         private const string VerbFilePath3 = @"..\..\..\Input\verbs\3syllableverbs.txt";
         private const string VerbFilePath4 = @"..\..\..\Input\verbs\4syllableverbs.txt";
-        private const string ConnectionName = "RandomData";
+        public const string ConnectionName = "RandomData";
         #endregion
         
         #region Constructor
@@ -152,7 +152,7 @@ namespace RandomDataImporter
                 if (TextHelper.Exists(fileText))
                 {
                     // get the textLines
-                    List<TextLine> textLines = WordParser.GetTextLines(fileText);
+                    List<TextLine> textLines = TextHelper.GetTextLines(fileText);
 
                     // If the textLines collection exists and has one or more items
                     if (ListHelper.HasOneOrMoreItems(textLines))
@@ -205,7 +205,7 @@ namespace RandomDataImporter
                 if (TextHelper.Exists(fileText))
                 {
                     // get the textLines
-                    List<TextLine> textLines = WordParser.GetTextLines(fileText);
+                    List<TextLine> textLines = TextHelper.GetTextLines(fileText);
 
                     // If the textLines collection exists and has one or more items
                     if (ListHelper.HasOneOrMoreItems(textLines))
@@ -254,7 +254,7 @@ namespace RandomDataImporter
                 if (TextHelper.Exists(fileText))
                 {
                     // get the textLines
-                    List<TextLine> textLines = WordParser.GetTextLines(fileText);
+                    List<TextLine> textLines = TextHelper.GetTextLines(fileText);
 
                     // If the textLines collection exists and has one or more items
                     if (ListHelper.HasOneOrMoreItems(textLines))
@@ -303,7 +303,7 @@ namespace RandomDataImporter
                 if (TextHelper.Exists(fileText))
                 {
                     // get the textLines
-                    List<TextLine> textLines = WordParser.GetTextLines(fileText);
+                    List<TextLine> textLines = TextHelper.GetTextLines(fileText);
 
                     // If the textLines collection exists and has one or more items
                     if (ListHelper.HasOneOrMoreItems(textLines))
@@ -363,7 +363,7 @@ namespace RandomDataImporter
                 if (TextHelper.Exists(fileText))
                 {
                     // get the textLines
-                    List<TextLine> textLines = WordParser.GetTextLines(fileText);
+                    List<TextLine> textLines = TextHelper.GetTextLines(fileText);
 
                     // If the textLines collection exists and has one or more items
                     if (ListHelper.HasOneOrMoreItems(textLines))
@@ -416,7 +416,7 @@ namespace RandomDataImporter
                 if (TextHelper.Exists(fileText))
                 {
                     // get the textLines
-                    List<TextLine> textLines = WordParser.GetTextLines(fileText);
+                    List<TextLine> textLines = TextHelper.GetTextLines(fileText);
 
                     // If the textLines collection exists and has one or more items
                     if (ListHelper.HasOneOrMoreItems(textLines))
@@ -465,7 +465,7 @@ namespace RandomDataImporter
                 if (TextHelper.Exists(fileText))
                 {
                     // get the textLines
-                    List<TextLine> textLines = WordParser.GetTextLines(fileText);
+                    List<TextLine> textLines = TextHelper.GetTextLines(fileText);
 
                     // If the textLines collection exists and has one or more items
                     if (ListHelper.HasOneOrMoreItems(textLines))
@@ -514,7 +514,7 @@ namespace RandomDataImporter
                 if (TextHelper.Exists(fileText))
                 {
                     // get the textLines
-                    List<TextLine> textLines = WordParser.GetTextLines(fileText);
+                    List<TextLine> textLines = TextHelper.GetTextLines(fileText);
 
                     // If the textLines collection exists and has one or more items
                     if (ListHelper.HasOneOrMoreItems(textLines))
@@ -574,7 +574,7 @@ namespace RandomDataImporter
                 if (TextHelper.Exists(fileText))
                 {
                     // get the textLines
-                    List<TextLine> textLines = WordParser.GetTextLines(fileText);
+                    List<TextLine> textLines = TextHelper.GetTextLines(fileText);
 
                     // If the textLines collection exists and has one or more items
                     if (ListHelper.HasOneOrMoreItems(textLines))
@@ -627,7 +627,7 @@ namespace RandomDataImporter
                 if (TextHelper.Exists(fileText))
                 {
                     // get the textLines
-                    List<TextLine> textLines = WordParser.GetTextLines(fileText);
+                    List<TextLine> textLines = TextHelper.GetTextLines(fileText);
 
                     // If the textLines collection exists and has one or more items
                     if (ListHelper.HasOneOrMoreItems(textLines))
@@ -676,7 +676,7 @@ namespace RandomDataImporter
                 if (TextHelper.Exists(fileText))
                 {
                     // get the textLines
-                    List<TextLine> textLines = WordParser.GetTextLines(fileText);
+                    List<TextLine> textLines = TextHelper.GetTextLines(fileText);
 
                     // If the textLines collection exists and has one or more items
                     if (ListHelper.HasOneOrMoreItems(textLines))
@@ -725,7 +725,7 @@ namespace RandomDataImporter
                 if (TextHelper.Exists(fileText))
                 {
                     // get the textLines
-                    List<TextLine> textLines = WordParser.GetTextLines(fileText);
+                    List<TextLine> textLines = TextHelper.GetTextLines(fileText);
 
                     // If the textLines collection exists and has one or more items
                     if (ListHelper.HasOneOrMoreItems(textLines))
@@ -785,7 +785,7 @@ namespace RandomDataImporter
                 if (TextHelper.Exists(fileText))
                 {
                     // get the textLines
-                    List<TextLine> textLines = WordParser.GetTextLines(fileText);
+                    List<TextLine> textLines = TextHelper.GetTextLines(fileText);
 
                     // If the textLines collection exists and has one or more items
                     if (ListHelper.HasOneOrMoreItems(textLines))
@@ -838,7 +838,7 @@ namespace RandomDataImporter
                 if (TextHelper.Exists(fileText))
                 {
                     // get the textLines
-                    List<TextLine> textLines = WordParser.GetTextLines(fileText);
+                    List<TextLine> textLines = TextHelper.GetTextLines(fileText);
 
                     // If the textLines collection exists and has one or more items
                     if (ListHelper.HasOneOrMoreItems(textLines))
@@ -887,7 +887,7 @@ namespace RandomDataImporter
                 if (TextHelper.Exists(fileText))
                 {
                     // get the textLines
-                    List<TextLine> textLines = WordParser.GetTextLines(fileText);
+                    List<TextLine> textLines = TextHelper.GetTextLines(fileText);
 
                     // If the textLines collection exists and has one or more items
                     if (ListHelper.HasOneOrMoreItems(textLines))
@@ -936,7 +936,7 @@ namespace RandomDataImporter
                 if (TextHelper.Exists(fileText))
                 {
                     // get the textLines
-                    List<TextLine> textLines = WordParser.GetTextLines(fileText);
+                    List<TextLine> textLines = TextHelper.GetTextLines(fileText);
 
                     // If the textLines collection exists and has one or more items
                     if (ListHelper.HasOneOrMoreItems(textLines))
